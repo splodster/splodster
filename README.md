@@ -12,3 +12,6 @@ Class of 2025
 - Unity Game Development (Internship Project)
 - C++, C# and Rust
 - Illustrator and Photoshop Graphic Design
+
+## Where you can find me
+- [Codeforces](https://codeforces.com/profile/splodster)
