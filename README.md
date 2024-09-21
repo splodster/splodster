@@ -14,4 +14,5 @@ Class of 2025
 - Illustrator and Photoshop Graphic Design
 
 ## Where you can find me
+- [Linkedin](https://www.linkedin.com/in/rameezadil/)
 - [Codeforces](https://codeforces.com/profile/splodster)
