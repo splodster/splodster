@@ -3,7 +3,7 @@
 I'm passionate about development, game design, and the open source community.
 
 ## Education
-Singapore Polytechnic <\br>
+Singapore Polytechnic <br/>
 School of Electrical & Electronic Engineering
 Diploma in Electrical & Electronic Engineering
 Class of 2025
