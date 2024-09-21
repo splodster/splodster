@@ -18,5 +18,6 @@ Class of 2025
 - [Codeforces](https://codeforces.com/profile/splodster)
 
 ## Stats
-![Project Euler](https://projecteuler.net/profile/splodster.png)
+
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=splodster)
+![Project Euler](https://projecteuler.net/profile/splodster.png)
