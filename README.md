@@ -16,3 +16,6 @@ Class of 2025
 ## Where you can find me
 - [Linkedin](https://www.linkedin.com/in/rameezadil/)
 - [Codeforces](https://codeforces.com/profile/splodster)
+
+## Stats
+![Project Euler](https://projecteuler.net/profile/splodster.png)
